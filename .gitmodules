@@ -1,0 +1,9 @@
+[submodule "aniwatch-landing-page"]
+	path = aniwatch-landing-page
+	url = https://github.com/viraj308/aniwatch-landing-page
+[submodule "react-calculator"]
+	path = react-calculator
+	url = https://github.com/viraj308/react-calculator
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/viraj308/portfolio
